@@ -18,4 +18,27 @@ Make steel: make the blast furnace by using 1 pyrotheum dust, 4 coke brick, and 
 General Recipe Changes
 Most things that require iron will require steel instead.  Vanilla tools will not be subject to this, just modded items.  
 Some things will have bronze instead of just copper as long as it makes sense.
-The recipe for beds will be gated behind getting to the Aether
+The recipe for beds will be gated behind getting to the Aether and will only be found in villages specifically to set your spawn point
+Glowstone dust will be made with Made with 3 redstone and 1 pyrotheum to make 8 glowstone dust.
+Tinkers Construct Seared Stone Bricks will need 1 seared stone poured over a coke brick in the porcelain melter
+
+Other information
+Glowstone will not naturally spawn, it will need to be created with Nuclearcraft isotopes
+Glowstone dust will have a new recipe as well and not contribute to the Glowstone bblock recipe.
+
+progression notes
+Tinkers construct needs coke brick to make the Tool Forge, the Tinkers Construct benches will need Treated wood to be made as well.  The tinkers smeltery need coke brick and the porcelain melter.
+Industrialcraft rods, wires, and other things need the tinker's smeltery in order to make.  
+Thermal series items will need the Macerator, compressor, and advanced circuits from IC2
+Futurepack will need Thermal Series machines and blocks to create items needed for the futurepack items. 
+Applied energistics meteors and certus quartz will only spawn on Menelaus from FP. Charged Certus will not spawn anywhere and requires the Charger. 
+Extreme reactors needs certus quartz to make the reactor glass a fuel rods as well as thermal series coils and Industrialcraft Circuits
+Botania needs yellorium and the blue ingot thing to make the manapool and mana spreaders.
+Industrial Foregoing needs an ingot you can only get via the runic altar.
+Mekanism requires IF's plastic, latex, and bioreactor
+Twilight forest requires Mekanism Osmium which can only be created by allowing the Industrial foregoing ingot from the runic altar with manasteel
+thaumcraft crystals only spawn in the twilight forest
+Project E needs Thaumcraft research (still undecided)
+Advanced rocketry needs dark Matter, Red Matter, and Aeternis fuel.
+Nuclearcraft ores will only spawn on different planets,
+Aether requires Nuclearcraft Isotopes.
