@@ -1,2 +1,2 @@
-# Tenebrae-Lucics
+# Tenebrae-Lucis
 Darkness within the Light
