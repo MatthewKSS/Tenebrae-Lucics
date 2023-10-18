@@ -12,6 +12,94 @@ Main Objectives:
 Make Coke Oven: make coke brick by combining 4 brick blocks, 4 nether brick blocks, and a coal block together for 3 coke bricks. > Make blast bricks
 Make steel: make the blast furnace by using 1 pyrotheum dust, 4 coke brick, and 4 nether brick blocks which will give you 3 blast brick blocks > put Iron in the Blast Furnace with coal coke.
 
+Tinkers Construct:
+Main Objectives:
+Make the basic Tinker's blocks.
+Stencil table will be made with treated wood, two treated sticks, and a pattern
+parts builder will be made with treated wood, Logs, and a pattern
+Tool forge requires 4 metal blocks, two coke brick, a seared brick, and crafting station.
+Make Seared Bricks from pouring seared stone over a coke brick in the procelain melter.
+
+IndustrialCraft2:
+Main Objectives:
+Make the Macerator, Compressor, and Advanced Ciruits
+To make rods, wires, and components, you will need different materials poured into patterns or other components.
+
+Thermal Series:
+Main Objectives:
+Not specified yet.  Machines and items from TS are needed to move onto Futurepack machines.  
+Thermal machines and cables are needed in the recipes and in the components in recipes for the Futurepack items and machines.
+
+FuturePack:
+Main Objectives:
+Go to Menelaus to get certus quarts and AE2 Meteors for the blueprints.
+Gather futurepack crystals on Menelaus.
+
+Applied Energistics:
+Main Objectives:
+Gather Certus Quarts and Charged Certus Quarts.  
+Create the ME system using FP crystals and quartz.
+Create Pure Crystals using a purifying method.
+Create Flux crystals
+
+Extreme Reactors:
+Main Objectives:
+Use Fluix Crystals pure and unpure and Charged Certus Quartz to make components of the reactor glass, fuel rods, and more
+Use Thermal Series coils and industrial craft circuits to make the reactor casing, control rods, and controller.
+Tinker's construct needed for Fuel processing early on.
+
+Botania:
+Main Objectives:
+Make manapool and mana spreaders with yellowrium and cryotheum, use FP Crystals and Certus quartz for other componenets in the petal apothecary
+Flowers produce less mana and less petals when broken down,
+Mana Diamonds reqire industrial Diamonds from IC2
+Mana pearls require ender pearls and manasteel.
+Manasteel made with cryotheum, steel, and a mana diamond around a runic altar.
+
+Industrial Foregoing:
+Main Objectives:
+Main ingot in the pack can only be made on the Runic Altar using manasteel and other components.
+
+Mekanism:
+Main Objectives:
+Requires IF plastic to make machine casings
+Requires IF laser drill to get Osmium
+Power requirements are higher
+Bioreactor needed to make energy cubes
+
+Twilight Forest:
+Main Objectives:
+Osmium needed to go to the dimension instead of dropping a diamond
+Portal made with Mycellium, botania power generating flowers, and an osmium ingot.
+Go to the dimension to get Thaumcraft crystals. 
+
+Thaumcraft:
+Main Objectives:
+Gather crystals in the TF.
+
+Project E:
+Main Objectives:
+Use thaumcraft crystals and other objects to make the philospher's stone.
+Use the stone to make aeternis fuel, dark matter, and red matter
+
+Advanced Rocketry:
+Main Objectives:
+Use Aeternis fuel to make rocket fuel along with Oil from IC2.
+Use Dark matter to make the rockets and machine rotors
+Only the Elite rotor is available to craft which will require Dark matter, Thaumcraft Crystals, Thermal Series power coils, and Smeltery recipes.
+Red matter is needed to create the launchpad and launch controller.
+Get titanium-boron alloy to get to asteroids in order to mine uranium and other NC ores.
+
+Nuclearcraft:
+Main Objectives:
+Get ores from asteroids and planets in AR
+Create nuclear reactor using dark matter, red matter, and NC ores.
+
+Aether:
+Final Objective:
+Get to the aether using glowstone and a skywood bucket.
+Glowstone Recipe altered.
+Need to get different NC isotopes to create Glowstone and Skywood
 
 
 
@@ -26,7 +114,7 @@ Other information
 Glowstone will not naturally spawn, it will need to be created with Nuclearcraft isotopes
 Glowstone dust will have a new recipe as well and not contribute to the Glowstone bblock recipe.
 
-progression notes
+Progression notes
 Tinkers construct needs coke brick to make the Tool Forge, the Tinkers Construct benches will need Treated wood to be made as well.  The tinkers smeltery need coke brick and the porcelain melter.
 Industrialcraft rods, wires, and other things need the tinker's smeltery in order to make.  
 Thermal series items will need the Macerator, compressor, and advanced circuits from IC2
@@ -36,7 +124,7 @@ Extreme reactors needs certus quartz to make the reactor glass a fuel rods as we
 Botania needs yellorium and the blue ingot thing to make the manapool and mana spreaders.
 Industrial Foregoing needs an ingot you can only get via the runic altar.
 Mekanism requires IF's plastic, latex, and bioreactor
-Twilight forest requires Mekanism Osmium which can only be created by allowing the Industrial foregoing ingot from the runic altar with manasteel
+Twilight forest requires Mekanism Osmium which only can be mined from the IF Laser Drill
 thaumcraft crystals only spawn in the twilight forest
 Project E needs Thaumcraft research (still undecided)
 Advanced rocketry needs dark Matter, Red Matter, and Aeternis fuel.
